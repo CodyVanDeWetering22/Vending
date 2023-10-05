@@ -1,0 +1,6 @@
+/* BASIC STYLES HERE */
+.snackImg {
+    max-height: 30vh;
+    object-fit: cover;
+    width: 100%;
+}
